@@ -1,3 +1,4 @@
 #ScienceX
 This is a simple Github Repository for ScienceX...
-[I'm an inline-style link](https://www.avskr.in)
+
+[AAVISKAR](https://www.avskr.in)
